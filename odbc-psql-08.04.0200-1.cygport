@@ -1,0 +1,8 @@
+
+HOMEPAGE="http://psqlodbc.projects.postgresql.org/"
+SRC_URI="http://ftp5.ca.postgresql.org/mirrors/postgresql/odbc/versions/src/psqlodbc-${PV}.tar.gz"
+SRC_DIR="psqlodbc-${PV}"
+
+CYGCONF_ARGS="--with-iodbc=/usr --with-libpq=/usr"
+
+DOCS="docs/*.html"
