@@ -6,3 +6,5 @@ SRC_DIR="psqlodbc-${PV}"
 CYGCONF_ARGS="--with-iodbc=/usr --with-libpq=/usr"
 
 DOCS="docs/*.html"
+
+KEEP_LA_FILES="none"
