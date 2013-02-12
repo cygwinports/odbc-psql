@@ -1,4 +1,9 @@
-
+NAME="odbc-psql"
+VERSION=09.01.0200
+RELEASE=1
+CATEGORY="Database"
+SUMMARY="ODBC PostgreSQL driver"
+DESCRIPTION="psqlODBC is the official PostgreSQL ODBC Driver."
 HOMEPAGE="http://psqlodbc.projects.postgresql.org/"
 SRC_URI="http://ftp5.ca.postgresql.org/mirrors/postgresql/odbc/versions/src/psqlodbc-${PV}.tar.gz"
 SRC_DIR="psqlodbc-${PV}"

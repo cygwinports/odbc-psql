@@ -1,4 +1,0 @@
-category: Database
-requires: libiodbc2 libltdl7 libopenssl100 libpq5
-sdesc: "ODBC PostgreSQL driver"
-ldesc: "psqlODBC is the official PostgreSQL ODBC Driver."
